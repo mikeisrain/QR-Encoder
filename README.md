@@ -1,4 +1,4 @@
-<a href='http://mikon.media/qr/'>DEMO HERE</a>
+<a href='http://192.241.245.137/~themegee/qr/'>DEMO HERE</a>
 
 <h3>QR.encode(config)</h3>
 
