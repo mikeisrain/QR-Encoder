@@ -1,3 +1,5 @@
+<a href='http://mikon.media/qr/'>DEMO HERE</a>
+
 <h3>QR.encode(config)</h3>
 
 <p>QR.encode takes a configuration object as an argument.<br/>
